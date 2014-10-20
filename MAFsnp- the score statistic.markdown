@@ -80,9 +80,8 @@ summary(T0.profile)
 #3. compare with psudo-lrt
 $e = 0.01,c = 5,S = 50,p=0,1,2,3$ and 
 $e = 0.01,c = 10,S = 50,p=0,1,2,3$.
-![prec.rec][1]
-
-
+![c5](http://ww3.sinaimg.cn/mw1024/62725321jw1elhsyfugq8j21he0jxgon.jpg)
+![c10](http://ww3.sinaimg.cn/mw1024/62725321jw1elhsye9ft4j21js0jvn03.jpg)
 
 
 
